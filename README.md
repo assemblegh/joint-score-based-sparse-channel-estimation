@@ -1,4 +1,4 @@
-# 基于扩散模型的大规模 MIMO 联合信道估计与符号检测
+# 基于扩散模型的大规模 MIMO 联合稀疏信道估计与符号检测
 
 # Joint Channel Estimation and Data Detection in Massive MIMO Systems Based on Diffusion Models
 
